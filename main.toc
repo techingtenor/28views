@@ -1,0 +1,11 @@
+\contentsline {chapter}{\numberline {1}Approaching the Mountain}{3}{}%
+\contentsline {section}{\numberline {1.1}Entering the Valley}{3}{}%
+\contentsline {section}{\numberline {1.2}Encounters around the Base}{6}{}%
+\contentsline {chapter}{\numberline {2}The Summit and Beyond}{11}{}%
+\contentsline {section}{\numberline {2.1}Peak and Valley}{11}{}%
+\contentsline {section}{\numberline {2.2}Signs of Life}{15}{}%
+\contentsline {chapter}{\numberline {3}A Grand Tour}{19}{}%
+\contentsline {section}{\numberline {3.1}To the North}{19}{}%
+\contentsline {section}{\numberline {3.2}To the South}{22}{}%
+\contentsline {section}{\numberline {3.3}Heading out of the Valley}{27}{}%
+\contentsline {chapter}{\numberline {4}Views from my Own Explorations}{31}{}%
